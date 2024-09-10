@@ -1,6 +1,8 @@
 ## Blog app
 
 - Technologies used: >Nextjs
+  > Nextjs
+
   > Postgres database(from supabase)
 
   > Prisma ORM
