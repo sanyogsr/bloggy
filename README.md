@@ -9,7 +9,7 @@
   
   > -> Will add more features as it get pushed to repo.. have a nice day
   
-       ##  To run this project locally:
+##  To run this project locally:
 
 ```bash
   clone the repo
